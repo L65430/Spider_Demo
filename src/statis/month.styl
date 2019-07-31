@@ -1,0 +1,55 @@
+@import './variable.styl'
+.app {
+  width 1200px
+  margin 0 auto 
+}
+.nav-link {
+  margin-bottom 20px
+  padding-bottom 5px
+  border-bottom 1px solid #aaa
+  a {
+    color #00f
+    margin-right 10px
+    &.l-next {
+      float right
+    }
+  }
+}
+.chart-container {
+  float left
+  width 600px
+  overflow hidden
+  margin-right 20px
+}
+.article-container {
+  display inline-block
+  max-width 580px
+  .explain-tips {
+    margin 5px 0 10px
+  }
+  div {
+    margin-bottom 20px
+  }
+  .sum-title {
+    font-size 14px
+    strong {
+      font-size 18px
+    }
+  }
+  .comment-top {
+    i {
+      color $commentColor
+    }
+  }
+  li {
+    max-width 600px
+  }
+}
+.statis-chart {
+  width 600px
+  height 500px
+  &.sum {
+    width 500px
+    height 300px
+  }
+}
