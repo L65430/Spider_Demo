@@ -30,7 +30,7 @@
     "express": "^4.14.0",
     "file-stream-rotator": "0.0.7",
     "html-webpack-plugin": "^2.28.0",
-    "lodash": "^4.16.4",
+    "lodash": "^4.17.19",
     "md5": "~2.1.0",
     "mongoose": "^4.8.5",
     "morgan": "~1.7.0",
