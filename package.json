@@ -16,7 +16,7 @@
     "build-statis": "node ./build/build.js statis"
   },
   "dependencies": {
-    "axios": "^0.15.3",
+    "axios": "^0.21.1",
     "body-parser": "~1.15.2",
     "cheerio": "^0.22.0",
     "co": "^4.6.0",
