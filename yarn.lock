@@ -2571,7 +2571,7 @@ is-plain-obj@^1.0.0:
 
 is-posix-bracket@^0.1.0:
   version "0.1.1"
-  resolved "http://registry.npmjs.org/is-posix-bracket/-/is-posix-bracket-0.1.1.tgz#3334dc79774368e92f016e6fbc0a88f5cd6e6bc4"
+  resolved "https://registry.npmjs.org/is-posix-bracket/-/is-posix-bracket-0.1.1.tgz#3334dc79774368e92f016e6fbc0a88f5cd6e6bc4"
 
 is-primitive@^2.0.0:
   version "2.0.0"
@@ -3205,9 +3205,9 @@ nodejs-dashboard@^0.1.1:
     socket.io-client "^1.4.8"
     socketio "^1.0.0"
 
-nodemailer@^3.1.5:
-  version "3.1.5"
-  resolved "https://registry.yarnpkg.com/nodemailer/-/nodemailer-3.1.5.tgz#b87a7bdb6651fe72fd8099ee41e2e4ab60534569"
+nodemailer@^6.4.16:
+  version "6.4.16"
+  resolved "https://registry.yarnpkg.com/nodemailer/-/nodemailer-6.4.16.tgz#5cb6391b1d79ab7eff32d6f9f48366b5a7117293"
 
 nopt@~2.1.2:
   version "2.1.2"
