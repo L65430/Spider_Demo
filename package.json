@@ -57,7 +57,7 @@
     "extract-text-webpack-plugin": "^2.0.0",
     "file-loader": "^0.9.0",
     "json-loader": "^0.5.4",
-    "log4js": "^0.6.38",
+    "log4js": "^6.4.0",
     "nib": "^1.1.2",
     "nodejs-dashboard": "^0.1.1",
     "offline-plugin": "^4.6.1",
