@@ -32,7 +32,7 @@
     "html-webpack-plugin": "^2.28.0",
     "lodash": "^4.16.4",
     "md5": "~2.1.0",
-    "mongoose": "^4.8.5",
+    "mongoose": "^4.13.21",
     "morgan": "~1.7.0",
     "nodejieba": "^2.2.3",
     "nodemailer": "^3.1.5",
