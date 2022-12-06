@@ -27,7 +27,7 @@
     "echarts": "^3.2.3",
     "ejs": "^2.5.2",
     "es6-promise": "^4.0.5",
-    "express": "^4.14.0",
+    "express": "^4.17.3",
     "file-stream-rotator": "0.0.7",
     "html-webpack-plugin": "^2.28.0",
     "lodash": "^4.16.4",
